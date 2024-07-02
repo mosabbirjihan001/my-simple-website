@@ -17,3 +17,13 @@
 .loorem{
     background-color: darkorange;
 }
+#how{
+    color: coral;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.git{
+    background-color: cornflowerblue;
+   font-size: large;
+    
+}
