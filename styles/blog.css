@@ -4,3 +4,16 @@
     text-decoration:underline;
     padding: 10px;
 }
+#second{
+    color: rgb(17, 71, 231);
+  background-color: rgb(255, 0, 0);
+}
+.lorem{
+    background-color: burlywood;
+}
+#third{
+    color: chartreuse;
+}
+.loorem{
+    background-color: darkorange;
+}
